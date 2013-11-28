@@ -2,6 +2,9 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
+#http://stackoverflow.com/questions/17360616/rails-4-0-0-ruby-2-0-gem-rails3-jquery-autocomplete-error
+#https://github.com/rayasocialmedia/rails_autocomplete
+
 gem 'sass-rails', '4.0.0'
 gem 'rails', '4.0.1'
 gem 'bcrypt-ruby', '3.1.2'
